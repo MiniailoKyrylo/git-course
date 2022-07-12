@@ -1,1 +1,1 @@
-myProject v.0.1
+myProject v.1.0
